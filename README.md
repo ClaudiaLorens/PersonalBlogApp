@@ -1,6 +1,10 @@
 # PersonalBlogApp
 
+PROYECT IN PROGRESS!
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
+
+## Installation
+Just download the project and run "npm install".
 
 ## Development server
 
